@@ -33,7 +33,7 @@ Download the source from Github and extract the contents of the *src* folder to 
 
         wget https://github.com/photo/frontend/tarball/master -O openphoto.tar.gz
         tar -zxvf openphoto.tar.gz
-        mv frontend-*/src OpenPhotoRoot
+        mv photo-frontend-*/src OpenPhotoRoot
         
 #### 2. Create the following directories.
 
